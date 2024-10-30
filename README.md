@@ -1,6 +1,6 @@
 # flutter-boilerplate
 
-![til](resources/sample.gif)
+<img src="resources/sample.gif" alt="til" width="300"/>
 
 ## Getting started
 
