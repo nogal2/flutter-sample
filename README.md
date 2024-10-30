@@ -10,7 +10,7 @@
 $ git clone https://github.com/nogal2/flutter-sample.git
 $ cd flutter-sample
 $ flutter pub get
-$ dart pub run melos bs
+$ dart run melos bs
 $ cd packages/flutter_sample
 $ flutter run -d chrome
 ```
